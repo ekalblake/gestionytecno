@@ -1,0 +1,14 @@
+﻿body {
+    background: #FFFFFF;
+    font-family: "QuattrocentoSans-Regular";
+    margin: 0;
+}
+
+
+img {
+    border-style: none;
+    border-color: inherit;
+    border-width: 15px;
+    width: 317px;
+    height: 179px;
+}
